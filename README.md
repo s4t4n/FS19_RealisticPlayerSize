@@ -1,4 +1,7 @@
-# FS19_RealisticPlayerSize
-Reduces player size from 2.02m to 1.86m, because all players seems to be Giants... ;-)
+# FS22_RealisticPlayerSizeB
+Reduces player size from 2.12m to 1.83m, because all players seems to be Giants... ;-)
 
-Reduziert die Größe des Spielers von 2.02m auf 1.86m.
+Reduziert die Größe des Spielers von 2.12m auf 1.83m.
+
+
+just converded
